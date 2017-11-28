@@ -9,9 +9,9 @@ But, when click left mouse button.
 
 It make number + 1. One click = number + 1.  
 Also, right click make number- 1.  
-![right](http://blog.naver.com/PostView.nhn?blogId=ninanung&Redirect=View&logNo=221150864879&categoryNo=27&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=7742&redirect=View&widgetTypeCall=true&topReferer=http%3A%2F%2Fblog.editor.naver.com%2Feditor&directAccess=false#)
+![right](http://postfiles13.naver.net/MjAxNzExMjhfMTkg/MDAxNTExODc5MDA0MTEz.ykOpidHQ28Mjx5ibScIR75nvhllcdFeoYMyGfeBMVG4g.0nghyVjCRKrr5b0TaNwOoiAfB1g8RHZzlhHXcVY2fnMg.PNG.ninanung/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2017-11-28_23.20.31.png?type=w773)
 
 Left mouse button double click make circle color change.  
-![color](http://blog.naver.com/PostView.nhn?blogId=ninanung&Redirect=View&logNo=221150864879&categoryNo=27&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=7742&redirect=View&widgetTypeCall=true&topReferer=http%3A%2F%2Fblog.editor.naver.com%2Feditor&directAccess=false#)
+![color](http://postfiles10.naver.net/MjAxNzExMjhfMTMz/MDAxNTExODc5MDA0MTE3.AyPAkU6M4NPkVwHeLDutAUvhgYY4B9eyLxZGfWZoiPQg.Sb1v2H6mSYex9RbuIJPF-M7F8njYGAAjxOcyHa8Ojpog.PNG.ninanung/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2017-11-28_23.20.41.png?type=w773)
 
 That's it!
